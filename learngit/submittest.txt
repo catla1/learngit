@@ -1,0 +1,4 @@
+add:
+git add filename filename filename
+submit:
+git commit -m "notes"
